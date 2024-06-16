@@ -1,2 +1,2 @@
 # Py-Codes
-Códigos de Python
+Alguns programas e códigos de Python que decidi colocar aqui.
